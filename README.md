@@ -60,11 +60,11 @@ Fast Hello World 10 times:
 Fast Hello World in key code:
 ```
 [C1048
-c10
+c1048
 C454C
-c4C
+c454C
 C4C4F201057
-c454C4F2010
+c4C4F201057
 C4F524C441031
 c4F524C441031]1
 ```
