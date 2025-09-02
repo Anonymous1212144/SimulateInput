@@ -86,7 +86,7 @@ S1000s1000[kH
 Fast Hello World 10 times but sleep for 1 second between each time
 ```
 {10[kHello World!
-s1000]1}
+]1s1000}
 ```
 The code I used to test the program:
 ```
